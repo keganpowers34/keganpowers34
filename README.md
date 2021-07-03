@@ -1,3 +1,4 @@
-### Sup
+### Hello 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keganpowers34&show_icons=true&theme=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keganpowers34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
